@@ -1,14 +1,14 @@
 {
-  "name": "pure-functions",
+  "name": "Matchers",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/Orlov-Oleg-Igorevich/pure-functions#readme",
+  "homepage": "https://github.com/Orlov-Oleg-Igorevich/Matchers#readme",
   "bugs": {
-    "url": "https://github.com/Orlov-Oleg-Igorevich/pure-functions/issues"
+    "url": "https://github.com/Orlov-Oleg-Igorevich/Matchers/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Orlov-Oleg-Igorevich/pure-functions.git"
+    "url": "git+https://github.com/Orlov-Oleg-Igorevich/Matchers.git"
   },
   "license": "ISC",
   "author": "Oleg",
